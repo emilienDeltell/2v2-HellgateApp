@@ -1,0 +1,14 @@
+[
+  {
+    "player1": "",
+    "player2": "",
+    "hellgates": 0,
+    "wins": 0,
+    "losses": 0,
+    "empty": 0,
+    "draw": 0,
+    "currentWinStreak": 0,
+    "longestWinStreak": 0,
+    "winrate": 0.0
+  }
+]
